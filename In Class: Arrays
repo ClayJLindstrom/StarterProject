@@ -1,0 +1,15 @@
+Instead of creating every individual enemy in a level, an array can create an entire set at once.
+In my knowledge, arrays are a container of several objects of the same type where the individual
+objects can be accessed easily and all of the objects can be altered using less code.
+
+Examples: 
+1. An egg box containing egg objects.
+2. a box with a deck of cards objects inside.
+3. an envelope containing several papers
+4. a folder containing papers as well
+5. cookie jar full of cookie objects.
+6. pictures in a collage or slide show.
+7. powerpoint slides in another slide show.
+8. bullets in a gun cartridge.
+9. pages in a book
+10. apples on a tree.
